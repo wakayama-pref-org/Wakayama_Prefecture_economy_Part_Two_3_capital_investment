@@ -1,4 +1,4 @@
-# Wakayama_Prefecture_economy_Part_Two_③_capital_investment
+# wakayama_prefecture_economy_part_two_3_capital_investment
 　【和歌山県　和歌山県経済です。】
 ◆概要
 和歌山県経済の一年間の動向を生産・雇用などのさまざまな経済指標からとらえ、景気の方向性や量感などを明らかにするとともに、本県の景気局面を把握・分析することを目的に、グラフ等を用いて解説しています。
